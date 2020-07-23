@@ -52,6 +52,6 @@ The board given as input is
 2 6 5
 After RIGHT, the board's configuration is
 
-3 0 8
-4 1 7
-2 6 5
+3 0 8.
+4 1 7.
+2 6 5.
